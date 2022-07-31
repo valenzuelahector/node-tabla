@@ -11,3 +11,6 @@ GIT
 .gitignore
 
 git init /inicializa el proyecto
+git add /prepara commit
+git commit -m "Primer commit" 
+git checkout -- . recupera archivos borrados
