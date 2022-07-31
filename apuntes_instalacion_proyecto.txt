@@ -1,0 +1,13 @@
+npm init
+
+npm install paquete
+npm install paquete@1.0.0 paquete en una version especifica
+npm install nodemon --save-dev  Dependencias de desarrollo
+
+
+
+GIT 
+
+.gitignore
+
+git init /inicializa el proyecto
